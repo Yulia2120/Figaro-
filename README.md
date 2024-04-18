@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer and Designer
 --------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Passion+for+frontend+development)](https://git.io/typing-svg)
 
 My passion for frontend development is reflected in my love for creating creative projects using CSS, JavaScript, and animations. The ability to come up with unique designs, add interactivity through code, and bring pages to life with animations always inspires me. Each project is an opportunity for me to showcase my creativity and improve my web development skills.
 
