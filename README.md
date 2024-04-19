@@ -7,7 +7,7 @@ Web Developer and Designer
 
 My passion for frontend development is reflected in my love for creating creative projects using CSS, JavaScript, and animations. The ability to come up with unique designs, add interactivity through code, and bring pages to life with animations always inspires me. Each project is an opportunity for me to showcase my creativity and improve my web development skills.
 
-* 🌍  I'm based in Ukraine, Kaminsky
+* 🌍  I'm based in Ukraine
 * 🤝  I'm open to collaborating on HTML, CSS, React project
 * ⚡  Completed training in Software Development at the Computer Academy IT Step
 
